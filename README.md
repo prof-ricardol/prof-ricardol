@@ -3,13 +3,15 @@
 ### Github criado com a finalidade de compartilhar os exemplos,
 exercícios e projetos desenvolvidos junto as turmas de Infonet
 da Etec Bartolomeu e turmas de CDados e SegInfo da Fatec SdP.
-
+#
+- 🔭 Trabalhando atualmente em HTML, CSS, PHP, Javascript, SQL and NoSQL Databases
 <!--
 **prof-ricardol/prof-ricardol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
