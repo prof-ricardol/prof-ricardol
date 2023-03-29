@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá, alunos e não alunos! 👋
+
+### Github criado com a finalidade de compartilhar os exemplos,
+exercícios e projetos desenvolvidos junto as turmas de Infonet
+da Etec Bartolomeu e turmas de CDados e SegInfo da Fatec SdP.
 
 <!--
 **prof-ricardol/prof-ricardol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
